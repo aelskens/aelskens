@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aelskens
-- 👀 I’m interested in optical microscopy and image analysis
+- 👀 I’m interested in optical microscopy, image analysis and machine learning
 - 🌱 I’m currently learning about optical microscopy and image analysis
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me arthur.elskens@ulb.be

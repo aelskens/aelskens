@@ -9,7 +9,7 @@ I'm Arthur, a PhD candidate at Université Libre de Bruxelles. My thesis, titled
 
 # Research
 
-## Assessing Local Descriptors for Feature-Based Registration of Whole-Slide Images
+### Assessing Local Descriptors for Feature-Based Registration of Whole-Slide Images
 
 [![SIPAIM2023 Badge](https://img.shields.io/badge/DOI-10.1109%2FSIPAIM56729.2023.10373514-3670A0?style=flat)](https://doi.org/10.1109/SIPAIM56729.2023.10373514)
 [![Code Badge](https://img.shields.io/badge/code-3670A0?style=flat&logo=python&logoColor=ffdd54&labelColor=grey)](https://gitlab.com/prother-wal_ulb_lis_mnu/feature-based_registration/-/tree/sipaim23?ref_type=heads)

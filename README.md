@@ -1,3 +1,5 @@
+![aelskens' Banner](./assets/GitHubHeader.png)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arthurelskens/)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-informational?style=flat&logo=gitlab&color=fc7f03)](https://gitlab.com/aelskens)
 [![DockerHub Badge](https://img.shields.io/badge/DockerHub-3670A0?style=flat&logo=docker&labelColor=grey)

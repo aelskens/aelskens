@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-3670A0?style=flat&logo=linkedin)](https://www.linkedin.com/in/arthurelskens/)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-informational?style=flat&logo=gitlab&color=fc7f03)](https://gitlab.com/aelskens)
-[![DockerHub Badge](https://img.shields.io/badge/DockerHub-3670A0?style=flat&logo=docker&labelColor=grey)
+[![DockerHub Badge](https://img.shields.io/badge/DockerHub-Profile-3670A0?style=flat&logo=docker&labelColor=grey)
 ](https://hub.docker.com/u/aelskens)
 
 Hey there 👋

@@ -1,8 +1,10 @@
 ![aelskens' Banner](./assets/GitHubHeader.png)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-3670A0?style=flat&logo=linkedin)](https://www.linkedin.com/in/arthurelskens/)
-[![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-informational?style=flat&logo=gitlab&color=fc7f03)](https://gitlab.com/aelskens)
-[![DockerHub Badge](https://img.shields.io/badge/DockerHub-Profile-3670A0?style=flat&logo=docker&labelColor=grey)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthurelskens/)
+[![Google Scholar Badge](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=fr&user=X48FKD4AAAAJ)
+[![ResearchGate Scholar Badge](https://img.shields.io/badge/ResearchGate-00ccbb?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Arthur-Elskens)
+[![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab)](https://gitlab.com/aelskens)
+[![DockerHub Badge](https://img.shields.io/badge/DockerHub-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 ](https://hub.docker.com/u/aelskens)
 
 Hey there 👋

@@ -9,7 +9,7 @@
 
 Hey there 👋
 
-I'm Arthur, a PhD candidate at Université Libre de Bruxelles. My thesis, titled *In-vivo ex-vivo image registration in pre-clinical studies*, focuses on integrating diverse information types, scales, and timeframes into a unified reference system.
+I'm Arthur, a PhD candidate at Université Libre de Bruxelles. My thesis, titled *Registration of Ex-vivo Multimodal Images for 3D reconstruction*, focuses on integrating diverse information types, scales, and timeframes into a unified reference system.
 
 # Research
 
